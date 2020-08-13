@@ -1,0 +1,430 @@
+﻿<h2>書籍查詢</h2>
+<div class="form-horizontal">
+
+    <div class="form-group">
+        <label class="control-label col-md-2">書名</label>
+        <div class="col-md-10">
+            <input id="bookName" name="Book_Name" type="text" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">圖書類別</label>
+        <div class="col-md-10">
+            <select id="bookClass" class="form-control" required="required"></select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">借閱人</label>
+        <div class="col-md-10">
+            <select id="user" class="form-control"></select>
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <label class="control-label col-md-2">借閱狀態</label>
+        <div class="col-md-10">
+            <select id="bookStatus" class="form-control"></select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-2">
+        </div>
+        <div class="col-md-10">
+            <button id="searchBtn" class="btn btn-primary">查詢</button>
+            <button id="claenBtn" class="btn btn-primary">清除</button>
+            <button id="addBtnInIndex" class="btn btn-primary">新增</button>
+        </div>
+    </div>
+
+    <div id="book_grid"></div>
+</div>
+
+<div id="windowAddBook" style="display:none">
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>書名</label>
+        <div class="col-md-10">
+            <input id="bookNameforinsert" name="Book_Name" type="text" class="form-control" style="width: 80%;height:auto" required="required" data-val-length-max="200" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>作者</label>
+        <div class="col-md-10">
+            <input id="bookAuthor" name="Book_Author" type="text" class="form-control" style="width: 75%;height:auto" required="required" data-val-length-max="30" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>出版商</label>
+        <div class="col-md-10">
+            <input id="bookPublisher" name="Book_Publisher" type="text" class="form-control" style="width: 65%;height:auto" required="required" data-val-length-max="20" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>內容簡介</label>
+        <div class="col-md-10">
+            <input id="bookNote" name="Book_Note" type="text" class="form-control" style="width: 100%;height:auto" required="required" data-val-length-max="1200" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>購書日期</label>
+        <div class="col-md-10">
+            <input id="boughtDate" name="date" title="datepicker" class="form-control" required="required" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>圖書類別</label>
+        <div class="col-md-10">
+            <select id="bookClassforinsert" class="form-control" required="required"></select>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <button id="insertBtnInWindow" class="btn btn-primary">存檔</button>
+        </div>
+    </div>
+</div>
+
+<div id="windowLendBookRecord" style="display:none">
+    <div id="lendRecord_grid"></div>
+</div>
+
+<div id="windowBookDetail">
+
+    <table class="table table-bordered table-striped" >
+
+        <tr>
+            <th scope="col">資料欄位</th>
+            <th scope="col">資料</th>
+        </tr>
+        <tr>
+            <td>書名</td>
+            <td id="bookNameForBookDetail"></td>
+        </tr>
+        <tr>
+            <td>作者</td>
+            <td id="bookAuthorForBookDetail"></td>
+        </tr>
+        <tr>
+            <td>出版商</td>
+            <td id="bookPublisherForBookDetail"></td>
+        </tr>
+        <tr>
+            <td>內容簡介</td>
+            <td id="bookNoteForBookDetail"></td>
+        </tr>
+        <tr>
+            <td>購書日期</td>
+            <td id="boughtDateForBookDetail"></td>
+        </tr>
+        <tr>
+            <td>圖書類別</td>
+            <td id="bookClassForBookDetail"></td>
+        </tr>
+        <tr>
+            <td>借閱狀態</td>
+            <td id="bookStatusForBookDetail"></td>
+        </tr>
+        <tr>
+            <td>借閱人</td>
+            <td id="userForBookDetail"></td>
+        </tr>
+
+    </table>
+
+</div>
+
+
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+       
+        GetDropDownList("#bookClass", "GetDropDownListDataForClass");
+        GetDropDownList("#bookClassforinsert", "GetDropDownListDataForClass");
+        GetDropDownList("#user", "GetDropDownListDataForUser");
+        GetDropDownList("#bookStatus", "GetDropDownListDataForStatus");
+
+        $("#boughtDate").kendoDatePicker({
+            format: "yyyy/MM/dd",
+            dateInput: true,
+            value: new Date()
+        });
+
+        //AutoComplete min
+        $("#bookName").kendoAutoComplete({
+            dataSource: {
+                transport: {
+                    read: {
+                        url: "BookNameAutoComplete",
+                        dataType:"json",
+                        type: "post",
+                        
+
+                    }
+                }
+            },
+            minLength: 2
+        });
+
+        $("#claenBtn").kendoButton({
+            click: function (e) {
+                window.location.href = "/Book/Index";
+            }
+        });
+
+        //Insert
+        $("input[data-val-length-max]").each(function (index, element) {
+            var length = parseInt($(this).attr("data-val-length-max"));
+            $(this).prop("maxlength", length);
+        });
+
+        var validator = $("#windowAddBook").kendoValidator().data("kendoValidator");
+
+        $("#windowAddBook").kendoWindow({
+            actions: ["Minimize", "Maximize", "Close"],
+            width: "700px",
+            title: "新增書籍",
+            modal: true,
+        });
+
+        //首頁的新增按鈕
+        $("#addBtnInIndex").kendoButton({
+            click: function (e) {
+                $("#windowAddBook").data("kendoWindow").open();
+                $("#windowAddBook").data("kendoWindow").center();
+
+            }
+        });
+        
+        $("#insertBtnInWindow").on("click", function () {
+            if (validator.validate()) {
+                InsertBook();//儲存新增的書
+            }
+        });
+
+        //search
+        $("#searchBtn").kendoButton({
+            click: SearchBook
+        });
+        
+        $("#windowLendBookRecord").kendoWindow({
+            actions: ["Minimize", "Maximize", "Close"],
+            width: "700px",
+            title: "借閱紀錄",
+            modal: true,
+        });
+
+        $("#windowBookDetail").kendoWindow({
+            actions: ["Minimize", "Maximize", "Close"],
+            width: "700px",
+            title: "書籍明細",
+            modal: true,
+            visible:false
+        });
+
+    });
+
+
+    function SearchBook(e) {
+
+        var bookSearch = {
+            BOOK_NAME: $('#bookName').val(),
+            BOOK_CLASS_ID: $("#bookClass").data("kendoDropDownList").value(),
+            USER_ID: $("#user").data("kendoDropDownList").value(),
+            BOOK_STATUS: $("#bookStatus").data("kendoDropDownList").value(),
+        }
+
+        if ($("#book_grid").data("kendoGrid")) {
+            //Grid is initialized destroy原本有的grid
+            $("#book_grid").kendoGrid('destroy').empty();
+        }
+
+        $("#book_grid").kendoGrid({
+            dataSource: {
+                transport: {
+                    read: {
+                        url: "/Book/SearchBook",
+                        data: bookSearch,
+                        type: "POST",
+                        dataType: "json"
+                    }
+                },
+                pageSize: 2,
+            },
+            sortable: true,
+            pageable: {
+                input: true,
+                numeric: false
+            },
+            noRecords: true,
+
+            columns: [
+               { field: "BOOK_ID", title: "書籍編號", hidden: true },
+               { field: "BOOK_CLASS_NAME", title: "圖書類別", width: "15%" },
+               {
+                   field: "BOOK_NAME", title: "書名", width: "40%",
+                   template: "<a href='\\\#' class='name-link'>#= BOOK_NAME #</a>"
+                   //template: "<a href='/Book/ShowBookDetails?BookID=#= BOOK_ID #'>#= BOOK_NAME #</a>"
+               },
+               { field: "BOOK_BOUGHT_DATE", title: "購書日期", width: "15%" },
+               { field: "BOOK_STATUS_NAME", title: "借閱狀態", width: "15%" },
+               { field: "USER_ENAME", title: "借閱人", width: "15%" },
+
+               { command: { text: "借閱紀錄", click: LendBookRecord }, title: " ", width: "120px" },
+               { command: { text: "編輯", click: UpdateBook }, title: " ", width: "120px" },
+               { command: { text: "刪除", click: DeleteBook }, title: " ", width: "120px" }
+            ]
+        }).on("click", "a.name-link", function () {
+           
+            var targetBook = $(this).closest("tr");
+            var targetObject = $("#book_grid").data("kendoGrid").dataItem(targetBook);
+            var bookid = targetObject.BOOK_ID;
+            ShowBookDetails(bookid);
+        });
+    }
+
+    function ShowBookDetails(bookid) {
+        var showBookDetailsResponse = function (response) {
+            if (response == "BookIDNotExist") {
+                alert("BookIDNotExist");
+                $("#book_grid").data("kendoGrid").dataSource.read();//重讀
+            } else {
+                $('#bookNameForBookDetail').text(response.BOOK_NAME);
+                $('#bookAuthorForBookDetail').text(response.BOOK_AUTHOR);
+                $('#bookPublisherForBookDetail').text(response.BOOK_PUBLISHER);
+                $('#bookNoteForBookDetail').text(response.BOOK_NOTE);
+                $('#boughtDateForBookDetail').text(response.BOOK_BOUGHT_DATE);
+                $('#bookClassForBookDetail').text(response.BOOK_CLASS_NAME);
+                $('#bookStatusForBookDetail').text(response.BOOK_STATUS);
+                $('#userForBookDetail').text(response.USER_ENAME);
+                $("#windowBookDetail").data("kendoWindow").open();
+                $("#windowBookDetail").data("kendoWindow").center();
+            }
+        }
+        Callajax("POST", "/Book/GetBookData", { bookID: bookid }, false, showBookDetailsResponse)
+    }
+
+    function InsertBook(e) {
+            var book = {
+                BOOK_NAME: $('#bookNameforinsert').val(),
+                BOOK_AUTHOR: $('#bookAuthor').val(),
+                BOOK_PUBLISHER: $('#bookPublisher').val(),
+                BOOK_NOTE: $('#bookNote').val(),
+                BOOK_BOUGHT_DATE: $('#boughtDate').val(),
+                BOOK_CLASS_ID: $("#bookClassforinsert").data("kendoDropDownList").value(),
+            }
+            var insertBookResponse = function (response) {
+                alert("新增成功");
+                $('#bookNameforinsert').val("");
+                $('#bookAuthor').val("");
+                $('#bookPublisher').val("");
+                $('#bookNote').val("");
+                $('#boughtDate').data("kendoDatePicker").value(new Date());
+                $("#bookClassforinsert").data("kendoDropDownList").select(0);
+            }
+
+            Callajax("POST", "/Book/InsertBookInView", book, true, insertBookResponse)
+        }
+
+    function DeleteBook(e) {
+
+            e.preventDefault();
+            var tr = $(e.target).closest('tr');
+            var dataItem = $("#book_grid").data("kendoGrid").dataItem(tr);
+            var statu = confirm("確定要刪除這筆資料嗎?");
+            if (!statu) { return false; }
+            var deleteResponse = function (response) {
+
+                if (response == "canBeDelete") {
+                    //read
+                    $("#book_grid").data("kendoGrid").removeRow(tr);
+
+                    alert("刪除成功");
+                    if ($("#book_grid").data("kendoGrid").dataSource.view().length == 0) {
+                        var currentPage = $("#book_grid").data("kendoGrid").dataSource.page();
+                        if (currentPage > 1) {
+                            $("#book_grid").data("kendoGrid").dataSource.page(currentPage - 1);
+                        }
+                    }
+                } else if (response == "existKeeper") {
+                    alert("刪除失敗，因為借閱人存在");
+                } else {
+                    alert("刪除失敗，因為書本不存在");
+                    $("#book_grid").data("kendoGrid").removeRow(tr);
+                }
+
+            }
+
+            Callajax("POST", "/Book/DeleteBook", "BookID=" + dataItem.BOOK_ID, true, deleteResponse)
+
+    }
+
+    function UpdateBook(e) {
+            var targetBook = $(e.target).closest("tr");
+            var targetObject = $("#book_grid").data("kendoGrid").dataItem(targetBook);
+            var BookID = targetObject.BOOK_ID;
+            window.location.hrefhttp://localhost:1815/Employee/Index = "/Book/UpdateBook?BookID=" + BookID;
+        }
+
+    function LendBookRecord(e) {
+            e.preventDefault();
+            var targetBook = $(e.target).closest("tr");
+            var targetObject = $("#book_grid").data("kendoGrid").dataItem(targetBook);
+            var BookID = targetObject.BOOK_ID;
+
+            //先查看書本是否存在，如果存在就可以跳出明細(長出GRID)，不存在的話就跳出書本不存在
+            var lendResponse = function (response) {
+                if (response == "BookIDNotExist") {
+                    alert("BookINotExist");
+                    $("#book_grid").data("kendoGrid").removeRow(targetBook);
+                } else {
+                    $("#lendRecord_grid").kendoGrid({
+                        dataSource: {
+                            transport: {
+                                read: {
+                                    url: "/Book/LendBookRecord",
+                                    data: { bookID: BookID },
+                                    type: "POST",
+                                    dataType: "json"
+                                }
+                            },
+                            pageSize: 20,
+                        },
+                        sortable: true,
+                        pageable: {
+                            input: true,
+                            numeric: false
+                        },
+                        noRecords: true,
+                        columns: [
+                           { field: "LEND_DATE", title: "借閱日期", width: "20%" },
+                           { field: "KEEPER_ID", title: "借閱人員編號", width: "20%" },
+                           { field: "USER_ENAME", title: "英文姓名", width: "25%" },
+                           { field: "USER_CNAME", title: "中文姓名", width: "25%" }
+                        ]
+                    });
+
+                    $("#windowLendBookRecord").data("kendoWindow").open();
+                    $("#windowLendBookRecord").data("kendoWindow").center();
+                }
+            }
+            Callajax("POST", "/Book/GetBookData", { bookID: BookID }, true, lendResponse)
+        }
+
+
+    
+</script>

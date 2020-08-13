@@ -1,0 +1,58 @@
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Service.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Service.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Common.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Dao.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Model.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.Core.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\Spring.Core.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\System.Web.Http.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\log4net.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Common.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Dao.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Model.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.Core.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\Spring.Core.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\Spring.Core.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\System.Web.Http.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\log4net.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\obj\Debug\BookSystem.Service.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\obj\Debug\BookSystem.Service.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Service\obj\Debug\BookSystem.Service.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Service.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Service.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Common.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Dao.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Model.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.Core.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\Spring.Core.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\System.Web.Http.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\log4net.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Common.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Dao.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\BookSystem.Model.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\Common.Logging.Core.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\Spring.Core.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\Spring.Core.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\System.Web.Http.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\log4net.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\obj\Debug\BookSystem.Service.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\obj\Debug\BookSystem.Service.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\obj\Debug\BookSystem.Service.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\AntiXssLibrary.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Service\bin\Debug\AntiXssLibrary.xml

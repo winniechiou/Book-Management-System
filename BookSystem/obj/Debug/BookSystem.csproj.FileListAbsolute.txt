@@ -1,0 +1,342 @@
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\ApplicationInsights.config
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\csc.exe
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\vbc.exe
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\BookSystem.dll.config
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\BookSystem.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\BookSystem.pdb
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\EntityFramework.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Helpers.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Razor.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Webpages.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\EntityFramework.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Razor.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Webpages.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Helpers.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\obj\Debug\BookSystem.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\obj\Debug\BookSystem.dll
+C:\Users\Queye\Desktop\MVC WORKSHOP\BookSystem\BookSystem\obj\Debug\BookSystem.pdb
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\ApplicationInsights.config
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\csc.exe
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\vbc.exe
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\BookSystem.dll.config
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\BookSystem.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\BookSystem.pdb
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\EntityFramework.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Helpers.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Razor.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Webpages.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\EntityFramework.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Razor.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Webpages.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Helpers.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\obj\Debug\BookSystem.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\obj\Debug\BookSystem.dll
+C:\Users\Queye\Desktop\winnie\workshop_MVC\BookSystem\BookSystem\obj\Debug\BookSystem.pdb
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\ApplicationInsights.config
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\csc.exe
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\vbc.exe
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\BookSystem.dll.config
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\BookSystem.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\BookSystem.pdb
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\EntityFramework.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Helpers.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Razor.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Webpages.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\EntityFramework.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Razor.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Webpages.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Helpers.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\obj\Debug\BookSystem.dll
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\obj\Debug\BookSystem.pdb
+C:\Users\Queye\Desktop\frontend_Adv\afterCodeReview\BookSystem\BookSystem\obj\Debug\BookSystem.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\ApplicationInsights.config
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\csc.exe
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\vbc.exe
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\BookSystem.dll.config
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\BookSystem.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\BookSystem.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\BookSystem.Common.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\BookSystem.Model.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\BookSystem.Service.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Common.Logging.Core.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Common.Logging.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Spring.Core.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Spring.Web.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Spring.Web.Mvc5.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Helpers.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Http.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Razor.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Webpages.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\log4net.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\BookSystem.Dao.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Newtonsoft.Json.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\BookSystem.Common.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\BookSystem.Model.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\BookSystem.Service.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Common.Logging.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Common.Logging.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Common.Logging.Core.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Common.Logging.Core.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Spring.Core.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Spring.Core.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Spring.Web.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Spring.Web.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Spring.Web.Mvc5.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Spring.Web.Mvc5.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Http.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Razor.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Webpages.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Helpers.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\log4net.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\BookSystem.Dao.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\obj\Debug\BookSystem.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\obj\Debug\BookSystem.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\obj\Debug\BookSystem.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\Newtonsoft.Json.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\ApplicationInsights.config
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\csc.exe
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\vbc.exe
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\BookSystem.dll.config
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\BookSystem.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\BookSystem.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\BookSystem.Common.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\BookSystem.Model.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\BookSystem.Service.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Common.Logging.Core.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Common.Logging.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Newtonsoft.Json.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Spring.Core.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Spring.Web.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Spring.Web.Mvc5.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Helpers.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Http.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Razor.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Webpages.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\log4net.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\BookSystem.Dao.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\BookSystem.Common.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\BookSystem.Model.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\BookSystem.Service.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Common.Logging.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Common.Logging.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Common.Logging.Core.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Common.Logging.Core.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Newtonsoft.Json.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Spring.Core.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Spring.Core.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Spring.Web.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Spring.Web.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Spring.Web.Mvc5.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\Spring.Web.Mvc5.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Http.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Razor.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Webpages.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Helpers.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\log4net.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\BookSystem.Dao.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\obj\Debug\BookSystem.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\obj\Debug\BookSystem.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\AntiXssLibrary.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\HtmlSanitizationLibrary.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\AntiXssLibrary.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\bin\HtmlSanitizationLibrary.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem\obj\Debug\BookSystem.csprojResolveAssemblyReference.cache

@@ -1,0 +1,25 @@
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\bin\Debug\BookSystem.Common.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\bin\Debug\BookSystem.Common.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\bin\Debug\log4net.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\bin\Debug\System.Web.Http.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\bin\Debug\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\bin\Debug\log4net.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\bin\Debug\System.Web.Http.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\bin\Debug\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\obj\Debug\BookSystem.Common.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Common\obj\Debug\BookSystem.Common.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\bin\Debug\BookSystem.Common.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\bin\Debug\BookSystem.Common.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\bin\Debug\log4net.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\bin\Debug\System.Web.Http.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\bin\Debug\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\bin\Debug\log4net.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\bin\Debug\System.Web.Http.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\bin\Debug\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\obj\Debug\BookSystem.Common.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\obj\Debug\BookSystem.Common.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Common\obj\Debug\BookSystem.Common.pdb

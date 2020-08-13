@@ -1,0 +1,21 @@
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Model\bin\Debug\BookSystem.Model.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Model\bin\Debug\BookSystem.Model.pdb
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Model\bin\Debug\System.Web.Http.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Model\bin\Debug\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Model\bin\Debug\System.Web.Http.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Model\bin\Debug\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Model\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Model\obj\Debug\BookSystem.Model.dll
+C:\Users\Queye\Desktop\backend adv\BookSystem\BookSystem.Model\obj\Debug\BookSystem.Model.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Model\bin\Debug\BookSystem.Model.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Model\bin\Debug\BookSystem.Model.pdb
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Model\bin\Debug\System.Web.Http.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Model\bin\Debug\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Model\bin\Debug\System.Web.Http.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Model\bin\Debug\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Model\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Model\obj\Debug\BookSystem.Model.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Model\obj\Debug\BookSystem.Model.dll
+C:\Users\Queye\Desktop\winnie\workshop_BackEnd\BookSystem\BookSystem.Model\obj\Debug\BookSystem.Model.pdb

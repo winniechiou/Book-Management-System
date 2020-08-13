@@ -1,0 +1,193 @@
+﻿
+<h2>修改書籍資料</h2>
+
+<div class="form-horizontal" id="UpdateBook">
+
+    <div class="form-group">
+
+        <label class="control-label col-md-2"><span style="color:red;">* </span>書名</label>
+        <div class="col-md-10">
+            <input id="bookName" name="Book_Name" type="text" class="form-control" style="width: 100%;" required="required" data-val-length-max="200" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>作者</label>
+        <div class="col-md-10">
+            <input id="bookAuthor" name="Book_Author" type="text" class="form-control" style="width: 100%;" required="required" data-val-length-max="30" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>出版商</label>
+        <div class="col-md-10">
+            <input id="bookPublisher" name="Book_Publisher" type="text" class="form-control" style="width: 100%;" required="required" data-val-length-max="20" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>內容簡介</label>
+        <div class="col-md-10">
+            <input id="bookNote" name="Book_Note" type="text" class="form-control" style="width: 100%;" required="required" data-val-length-max="1200" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>購書日期</label>
+        <div class="col-md-10">
+            <input id="boughtDate" name="date" title="datepicker" class="form-control" required="required" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>圖書類別</label>
+        <div class="col-md-10">
+            <select id="bookClass" class="form-control" required="required"></select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>借閱狀態</label>
+        <div class="col-md-10">
+            <select id="bookStatus" class="form-control" required="required"></select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">借閱人</label>
+        <div class="col-md-10">
+            <select id="user" class="form-control" required="required"></select>
+        </div>
+    </div>
+    <br>
+    <br>
+
+    <div class="form-group">
+        <div class="col-md-2">
+        </div>
+        <div class="col-md-10">
+            <button id="deleteBtn" class="btn btn-primary">刪除</button>
+            <button id="saveBtn" class="btn btn-primary">存檔</button>
+        </div>
+    </div>
+</div>
+
+
+<div>
+    <a href="/Book/">回到查詢頁面</a>
+</div>
+
+
+<script>
+    var url = new URL(location.href);
+    var bookid = url.searchParams.get('BookID');
+
+    $(document).ready(function () {
+
+        $("#saveBtn").kendoButton({
+            click: SaveUpdateData
+        });
+
+        $("#deleteBtn").kendoButton({
+            click: DeleteBook
+        });
+
+        $("#boughtDate").kendoDatePicker({
+            format: "yyyy-MM-dd",
+            dateInput: true,
+            value: new Date()
+        });
+
+        GetDropDownList("#bookClass", "GetDropDownListDataForClass");
+        GetDropDownList("#user", "GetDropDownListDataForUser");
+        GetDropDownList("#bookStatus", "GetDropDownListDataForStatus");
+        $("#bookStatus").change(function callChangefunc(e) {
+            ChangeDropDownListAboutUserBasedOnBookStatus();
+        });
+
+        ShowbBookDetails();
+    });
+
+    function ChangeDropDownListAboutUserBasedOnBookStatus(e) {
+        var value = $("#bookStatus").data("kendoDropDownList").value();
+        console.log(value);
+        //B(已借出 ) C(已借出未領) A(可以借出) U(不可借出)
+        if (value == "B" || value == "C") {
+            $("#user").data("kendoDropDownList").enable(true);
+        } else {
+            $("#user").data("kendoDropDownList").enable(false);
+            $("#user").data("kendoDropDownList").value("");
+        }
+
+    }
+
+    function ShowbBookDetails(e) {
+
+        var showBookResponse = function (response) {
+            if (response == "BookIDNotExist") {
+                alert("BookIDNotExist");
+                window.location.href = "/Book/Index";
+            } else {
+                $("#bookName").val(response.BOOK_NAME);
+                $("#bookAuthor").val(response.BOOK_AUTHOR);
+                $("#bookPublisher").val(response.BOOK_PUBLISHER);
+                $("#bookNote").val(response.BOOK_NOTE);
+                $("#boughtDate").val(response.BOOK_BOUGHT_DATE);
+                $("#bookClass").data("kendoDropDownList").value(response.BOOK_CLASS_ID);
+                $("#bookStatus").data("kendoDropDownList").value(response.BOOK_STATUS_ID);
+                $("#user").data("kendoDropDownList").value(response.KEEPER_ID);
+                ChangeDropDownListAboutUserBasedOnBookStatus();
+            }
+        }
+
+        Callajax("POST", "/Book/GetBookData", { bookID: bookid }, true, showBookResponse)
+    }
+
+
+    function SaveUpdateData(e) {
+
+        var validator = $("#UpdateBook").kendoValidator().data("kendoValidator");
+        if (validator.validate()) {
+            var book = {
+                BOOK_ID: bookid,
+                BOOK_NAME: $('#bookName').val(),
+                BOOK_AUTHOR: $('#bookAuthor').val(),
+                BOOK_PUBLISHER: $('#bookPublisher').val(),
+                BOOK_NOTE: $('#bookNote').val(),
+                BOOK_BOUGHT_DATE: $('#boughtDate').val(),
+                BOOK_CLASS_ID: $("#bookClass").data("kendoDropDownList").value(),
+                BOOK_STATUS_ID: $("#bookStatus").data("kendoDropDownList").value(),
+                KEEPER_ID: $("#user").data("kendoDropDownList").value()
+            }
+
+            var saveResponse = function (respinse) {
+                alert("修改成功");
+                window.location.href = "/Book/Index";
+            }
+
+            Callajax("POST", "/Book/UpdateBook", book, true, saveResponse)
+        }
+    }
+
+
+    function DeleteBook(e) {
+        e.preventDefault();
+        var statu = confirm("確定要刪除這筆資料嗎?");
+        if (!statu) { return false; }
+        var deleteReponse = function (response) {
+            if (response == "canBeDelete") {
+                alert("刪除成功");
+                window.location.href = "/Book/Index";
+            } else if (response == "existKeeper") {
+                console.log("existKeeper");
+                alert("刪除失敗，因為借閱人存在");
+            } else {
+                alert("刪除失敗，因為書本不存在");
+            }
+
+        }
+        Callajax("POST", "/Book/DeleteBook", "BookID=" + bookid, true, deleteReponse)
+       
+    }
+
+</script>

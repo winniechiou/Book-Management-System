@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net">
+
+  <object id="BookController"  type="BookSystem.Controllers.BookController,BookSystem" singleton="false">
+    <property name="codeService" ref="CodeService" />
+    <property name="bookService" ref="BookService" />
+  </object>
+
+  <object id="CodeService" type="BookSystem.Service.CodeService,BookSystem.Service">
+    <property name="codeDao" ref="CodeDao" />
+  </object>
+
+  <object id="BookService" type="BookSystem.Service.BookService,BookSystem.Service">
+    <property name="bookDao" ref="BookDao" />
+  </object>
+
+  <object id="CodeDao" type="BookSystem.Dao.CodeDao,BookSystem.Dao"/>
+  <object id="BookDao" type="BookSystem.Dao.BookDao,BookSystem.Dao"/>
+
+</objects>
